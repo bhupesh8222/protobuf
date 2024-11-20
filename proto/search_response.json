@@ -1,0 +1,2475 @@
+{
+    "data": {
+        "term": "moov",
+        "scroll_id": "Rre-0688yDrQYBn-2UkFiY-vOvNzHZ9Vlp5wJSeiWio=",
+        "previous_scroll_id": null,
+        "result_found": true,
+        "search_results": [
+            {
+                "id": "298649",
+                "name": "Moov Pain Relief Ointment for Back Pain, Joint Pain, Knee Pain, Muscle Pain",
+                "type": "otc",
+                "tag": {
+                    "text": "Bestseller",
+                    "bg_color": "#FECF7F"
+                },
+                "available": true,
+                "url": "/otc/moov-pain-relief-ointment-for-back-pain-joint-pain-knee-pain-muscle-pain-otc298649",
+                "ratings": {
+                    "total_ratings": 3470,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 50 gm cream",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0d57b6ff208d4f6ebff2f99e86796dd5.jpg",
+                "prices": {
+                    "mrp": "₹225",
+                    "discounted_price": "₹191",
+                    "discount": "15% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "298649",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0d57b6ff208d4f6ebff2f99e86796dd5.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/51fa1a8e01c340c488fc7607082a8c36.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c230d2bbb61d4ec6a52ab9d01073d521.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ba6d0870e13b4fdf8fa1d8668ec04f03.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/364669542abd476f968717c0c4a8f0e1.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e66c0713a3a04a6894eaae8f9a14677d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/082fbcbaaf9246fd8358662654e3b582.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/35a2f77a00ba481997bf6bbcab04a1b9.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 225,
+                    "discount_percent": 15,
+                    "position": 0,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "830299",
+                "name": "Moov Pain Relief Specialist",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-pain-relief-specialist-otc830299",
+                "ratings": {
+                    "total_ratings": 55,
+                    "average_rating": 4.6
+                },
+                "label": "tube of 75 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/913276fe1f65415fa563c104483f30f8.jpg",
+                "prices": {
+                    "mrp": "₹269",
+                    "discounted_price": "₹215",
+                    "discount": "20% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "830299",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/913276fe1f65415fa563c104483f30f8.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8447fc5b47aa419a87dccd041db6fedc.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c1e57b9db44b45f99d9a33e98e61962a.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9d1f261c72d241cda633e3258ae5733b.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b3b362274c5c430c8c33d8c4ccf71b57.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d730e0ef5a4c411ea420bc7e5344ba19.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b0121d8307bd4764ae556af371375681.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/080e8f17c2264c4dbaf049a981f3e8ca.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bd9c6f14bb0a404a8b2550a52da79ec5.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 269,
+                    "discount_percent": 20,
+                    "position": 1,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "377375",
+                "name": "Moov Pain Relief Ointment for Back Pain, Joint Pain, Knee Pain, Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-pain-relief-ointment-for-back-pain-joint-pain-knee-pain-muscle-pain-otc377375",
+                "ratings": {
+                    "total_ratings": 3472,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 30 gm cream",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cc8c81770ed04701b0b69e406c4b3021.jpg",
+                "prices": {
+                    "mrp": "₹159",
+                    "discounted_price": "₹132",
+                    "discount": "17% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "377375",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cc8c81770ed04701b0b69e406c4b3021.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8ecd7dcf1e394239a94afee007eed3c1.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2b68411d6ed44eff98e1fcdbd27181e6.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/58daf7d72fba445f964b29a5c71d28b5.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7235e7ccc4cc4f90baa43a15e1849c7e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/75a3def80b874b149163afd713452a37.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/edbb1958400d471390e402babfecd99d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2d4f56305b504ff6bf8b03bcf54433a1.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 159,
+                    "discount_percent": 17,
+                    "position": 2,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "964102",
+                "name": "Moov Cool Therapy Gel",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-cool-therapy-gel-otc964102",
+                "ratings": {
+                    "total_ratings": 13,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 20 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/24e779fde8f948ce92a67b26dd9ab427.jpg",
+                "prices": {
+                    "mrp": "₹110",
+                    "discounted_price": "₹99",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "964102",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>Thu, 21 Nov</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by Thu, 21 Nov",
+                        "eta": 272322
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/24e779fde8f948ce92a67b26dd9ab427.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/79f88d5dc4014f968366afcb8ef2994f.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/459046ff96114d749638f0e61afe4a3b.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38046d074d6e4fdf822fc24f746f2c57.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c7c715631a4d41e6a2e38105b2c06ae5.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0228bb00a44a4fe1a9e2203652bc9045.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c93996b31a9740ed9165bcbf8305a309.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 110,
+                    "discount_percent": 10,
+                    "position": 3,
+                    "eta": 272322,
+                    "eta_text": "Delivery by Thu, 21 Nov",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732200229,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "964107",
+                "name": "Moov Cool Therapy Spray",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-cool-therapy-spray-otc964107",
+                "ratings": null,
+                "label": "bottle of 15 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5300a1323cea45a0a6ace3eb718a006e.jpg",
+                "prices": {
+                    "mrp": "₹85",
+                    "discounted_price": "₹76.5",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "964107",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5300a1323cea45a0a6ace3eb718a006e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/66e315cdce324c4eb95b533a18d2c391.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a522b0955bc44028908e5b464cd4211b.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e9f094bc64bf47f38456248014c18c8d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6830214c244e445fbe2cbc2a0c4e0acd.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7297a6077b8641bf9435b54424df8c5a.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/4aa7b4d8a5eb4f998d468cc0ed95ed3a.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/775ed19e044a4a869fac1338ef25aea4.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 85,
+                    "discount_percent": 10,
+                    "position": 4,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "964108",
+                "name": "Moov Cool Therapy Spray",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-cool-therapy-spray-otc964108",
+                "ratings": null,
+                "label": "pump bottle of 35 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/34fa171b4e8d482281382847c4e7c6c7.jpg",
+                "prices": {
+                    "mrp": "₹186",
+                    "discounted_price": "₹167",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "964108",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/34fa171b4e8d482281382847c4e7c6c7.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8c43aae74d144389a6216c91b2816580.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b9010c8e28634081a8519feb362e1514.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e623b96e86d245f9b35a9ba395ebc1d5.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c81b69aed4484fd6af23ffe214a3197c.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ba4c20670e474e1e8226236556267cd4.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b2d39738b6b1490f9dad2f4b9f9eefcc.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e8f7df02f03746748337376fb59d764c.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 186,
+                    "discount_percent": 10,
+                    "position": 5,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "964101",
+                "name": "Moov Cool Therapy Gel",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/moov-cool-therapy-gel-otc964101",
+                "ratings": {
+                    "total_ratings": 13,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 10 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/37c200c59dd34a87aafbe0526cd6349d.jpg",
+                "prices": {
+                    "mrp": "₹60",
+                    "discounted_price": "₹54",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "964101",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>Thu, 21 Nov</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by Thu, 21 Nov",
+                        "eta": 272322
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/37c200c59dd34a87aafbe0526cd6349d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5791a8ce1f6f449a914ff94c2d2759cb.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/931332190eb345ecbfeaac70499e3a1c.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6eb5e915ea3f420d94df1175382de190.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/516e16cee15441d09a9a3ad5d6e93872.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/088e0c5de029472da1d4ef4b26c92a9e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/11e68133333a4055b0f1049116572b9c.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 60,
+                    "discount_percent": 10,
+                    "position": 6,
+                    "eta": 272322,
+                    "eta_text": "Delivery by Thu, 21 Nov",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732200229,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "299355",
+                "name": "100% Ayurvedic Pain Relief Spray | For Back Pain, Joint Pain, Knee Pain & Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": true,
+                "url": "/otc/100-ayurvedic-pain-relief-spray-for-back-pain-joint-pain-knee-pain-muscle-pain-otc299355",
+                "ratings": {
+                    "total_ratings": 1334,
+                    "average_rating": 4.4
+                },
+                "label": "pump bottle of 80 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0b0008822fd441299fbbd5a4908d8b38.jpg",
+                "prices": {
+                    "mrp": "₹329",
+                    "discounted_price": "₹280",
+                    "discount": "15% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "299355",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>10pm, Tomorrow</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by 10pm, Tomorrow",
+                        "eta": 105893
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0b0008822fd441299fbbd5a4908d8b38.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/024bc4f3b0604c93bcb0ebca8b7960da.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7558525912cf434f9c16497819e89b36.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 329,
+                    "discount_percent": 15,
+                    "position": 7,
+                    "eta": 105893,
+                    "eta_text": "Delivery by 10pm, Tomorrow",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732033800,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "297781",
+                "name": "Moov 100% Ayurvedic Pain Relief Spray | For Back Pain, Joint Pain, Knee Pain & Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-100-ayurvedic-pain-relief-spray-for-back-pain-joint-pain-knee-pain-muscle-pain-otc297781",
+                "ratings": {
+                    "total_ratings": 1333,
+                    "average_rating": 4.4
+                },
+                "label": "pump bottle of 35 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/227eb41163eb4ffabfbf69829e4517c1.jpg",
+                "prices": {
+                    "mrp": "₹186",
+                    "discounted_price": "₹166",
+                    "discount": "11% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "297781",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/227eb41163eb4ffabfbf69829e4517c1.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/18d52579-e169-424e-a2c5-db984c8365d8.jpeg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/134db1737aa54aa0aa9fc4dbbdf0f39e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b7cb094b292f443188e79d6b3af0d9f5.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3f74eedbdc764c10bc1c5d705017e836.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1591e38b570f4d66988554b368ec197e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2d156328f65e4d2b9d19609c498bae2d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/789d92454b4040ac901d3a84aaec0f7d.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 186,
+                    "discount_percent": 11,
+                    "position": 8,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "993160",
+                "name": "Moov Pain Relief Specialist Active Spray",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-pain-relief-specialist-active-spray-otc993160",
+                "ratings": null,
+                "label": "bottle of 15 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2e476b13c1b4471096408c71a008d7be.jpg",
+                "prices": {
+                    "mrp": "₹85",
+                    "discounted_price": "₹81.6",
+                    "discount": "4% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "993160",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2e476b13c1b4471096408c71a008d7be.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/319a6806c9144423b29493390b31beef.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8d39cf261cb94af19111886d5d799427.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5d70c3275e444e9f8380b4d2f61b804a.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 85,
+                    "discount_percent": 4,
+                    "position": 9,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "301248",
+                "name": "Moov Pain Relief Ointment for Back Pain, Joint Pain, Knee Pain, Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-pain-relief-ointment-for-back-pain-joint-pain-knee-pain-muscle-pain-otc301248",
+                "ratings": {
+                    "total_ratings": 3470,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 10 gm cream",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/4f935cdf2988443797f6bc29c2d23d44.jpg",
+                "prices": {
+                    "mrp": "₹60",
+                    "discounted_price": "₹54.6",
+                    "discount": "9% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "301248",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/4f935cdf2988443797f6bc29c2d23d44.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2c214de2fcaf4a7880335f1318faeca8.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/85dc0c47686e464b993faf964b309cc6.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 60,
+                    "discount_percent": 9,
+                    "position": 10,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "297146",
+                "name": "Moov Pain Relief Ointment for Back Pain, Joint Pain, Knee Pain, Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-pain-relief-ointment-for-back-pain-joint-pain-knee-pain-muscle-pain-otc297146",
+                "ratings": {
+                    "total_ratings": 3470,
+                    "average_rating": 4.5
+                },
+                "label": "tube of 15 gm cream",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f5bcc23cb96c46a892fd50499a4408fc.jpg",
+                "prices": {
+                    "mrp": "₹75",
+                    "discounted_price": "₹67.4",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "297146",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f5bcc23cb96c46a892fd50499a4408fc.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/4c74f12f6d8c476486add3e177406a0d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/00ff41f7e14145b1a42030c1f716b908.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8b2a7c9a477d402a990f1fbe2e64165d.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5019082d8f6a48529a55a34d2e69d6a8.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b8a8093b0606424180b78b1b12f7b294.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/00b577ed54bf4cf6b71556b2d9b36748.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8638b8891392426eb6f0bca974e9948e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c9eea89288eb484a8f6000e67570ab6b.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 75,
+                    "discount_percent": 10,
+                    "position": 11,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "323331",
+                "name": "Moov 100% Ayurvedic Pain Relief Spray | For Back Pain, Joint Pain, Knee Pain & Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-100-ayurvedic-pain-relief-spray-for-back-pain-joint-pain-knee-pain-muscle-pain-otc323331",
+                "ratings": {
+                    "total_ratings": 648,
+                    "average_rating": 4.5
+                },
+                "label": "bottle of 50 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2ecda4e10efb420693714ba4586de885.jpg",
+                "prices": {
+                    "mrp": "₹219",
+                    "discounted_price": "₹195",
+                    "discount": "11% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "323331",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2ecda4e10efb420693714ba4586de885.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5b8c58b1528446fa995e4445c7f50c97.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5ca34487556d42df81b46a542f6164e9.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d91e02a76f3149dcbdd91543bb9cdf99.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/35d1f8bbfced4a4db32564fa28cc9b07.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/69076d833f484a2f9594aab7c5a573d9.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1ef07506884a4ffa83a2470e5510f73a.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2c210075205b4e6faf0f7f1b3b59f5b0.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 219,
+                    "discount_percent": 11,
+                    "position": 12,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "899917",
+                "name": "Moov Strong Diclofenac Pain Relief Gel",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-strong-diclofenac-pain-relief-gel-otc899917",
+                "ratings": {
+                    "total_ratings": 590,
+                    "average_rating": 4.4
+                },
+                "label": "tube of 45 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38a8919d7f0d4b838310126d47dd043f.jpg",
+                "prices": {
+                    "mrp": "₹149",
+                    "discounted_price": "₹142",
+                    "discount": "5% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "899917",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38a8919d7f0d4b838310126d47dd043f.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c3709f8a454249428a88df58fd8dc88e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3a424b3d58bb4dd99ae99fa1a8e669ec.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/70a9bfbc771749e48438db7a99407f93.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8fa96ce8f0364ca8b020956af74ab2a0.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/abe8e0677d694ced8d9f7917b33949e7.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9146447c2926466092fdf912c65bceaa.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 149,
+                    "discount_percent": 5,
+                    "position": 13,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "911072",
+                "name": "Moov 100% Ayurvedic Pain Relief Spray | For Back Pain, Joint Pain, Knee Pain & Muscle Pain",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-100-ayurvedic-pain-relief-spray-for-back-pain-joint-pain-knee-pain-muscle-pain-otc911072",
+                "ratings": {
+                    "total_ratings": 648,
+                    "average_rating": 4.5
+                },
+                "label": "bottle of 50 gm spray",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9dcc406b399744b48aef717b070397e8.jpg",
+                "prices": {
+                    "mrp": "₹169",
+                    "discounted_price": "₹152",
+                    "discount": "10% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "911072",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9dcc406b399744b48aef717b070397e8.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1f410b2f768b4866834442308956286e.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e3f33efcb6ce4e3785b45a9f03c18fa3.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/744060e127834a13a71e0c8fbb611f73.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d160a86aed2a4536aa9a871d52982d12.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6bf1d1afb171439c9de63eecc7d7e375.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b7dab8f902c24db9a61e1146c0458d7c.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b2d6686d25fd4a96817fb24f70c8c536.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e0f2a8607cf34fde8e9b4f41a9c5d719.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 169,
+                    "discount_percent": 10,
+                    "position": 14,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "1003012",
+                "name": "Moov Pain Relief Specialist Ointment",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-pain-relief-specialist-ointment-otc1003012",
+                "ratings": null,
+                "label": "tube of 20 gm ointment",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a6e8f04f7c0f43cfab39f181a3349209.jpg",
+                "prices": {
+                    "mrp": "₹110",
+                    "discounted_price": "₹107",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "1003012",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a6e8f04f7c0f43cfab39f181a3349209.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7005b1b555e242059cd34ca3a5a5482c.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/53bb4f9f41264092b6b3276fa89826f0.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 110,
+                    "discount_percent": 3,
+                    "position": 15,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "1009388",
+                "name": "Moov Pain Relief Specialist Ointment",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-pain-relief-specialist-ointment-otc1009388",
+                "ratings": null,
+                "label": "tube of 75 gm ointment",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d8ea76e8d63843149891cb3f65fec597.jpg",
+                "prices": {
+                    "mrp": "₹269",
+                    "discounted_price": "₹258",
+                    "discount": "4% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "1009388",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d8ea76e8d63843149891cb3f65fec597.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5576f8c3d8c54c6d8359b8c432ea0b68.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/97b7b55531044b57ba2e9ff38955f85e.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 269,
+                    "discount_percent": 4,
+                    "position": 16,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "806396",
+                "name": "Moov Advance Diclofenac Gel with Dettol Liquid 60ml Free",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moov-advance-diclofenac-gel-with-dettol-liquid-60ml-free-otc806396",
+                "ratings": {
+                    "total_ratings": 57,
+                    "average_rating": 4.3
+                },
+                "label": "tube of 30 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹125",
+                    "discounted_price": "₹119",
+                    "discount": "5% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "806396",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 125,
+                    "discount_percent": 5,
+                    "position": 17,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "656213",
+                "name": "Moovila MR 100mg/325mg/250mg Tablet",
+                "type": "drug",
+                "tag": null,
+                "available": true,
+                "url": "/drugs/moovila-mr-100mg-325mg-250mg-tablet-656213",
+                "ratings": null,
+                "label": "strip of 10 tablets",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹70",
+                    "discounted_price": "₹67.9",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "656213",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 10,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>Wed, 20 Nov</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by Wed, 20 Nov",
+                        "eta": 124635
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 70,
+                    "discount_percent": 3,
+                    "position": 18,
+                    "eta": 124635,
+                    "eta_text": "Delivery by Wed, 20 Nov",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732052542,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "656216",
+                "name": "Moovila-Plus Oral Suspension Mango",
+                "type": "drug",
+                "tag": null,
+                "available": false,
+                "url": "/drugs/moovila-plus-oral-suspension-mango-656216",
+                "ratings": null,
+                "label": "bottle of 60 ml oral suspension",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹48",
+                    "discounted_price": null,
+                    "discount": null
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "656216",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 48,
+                    "discount_percent": 0,
+                    "position": 19,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "145792",
+                "name": "Moovini Gel",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moovini-gel-otc145792",
+                "ratings": null,
+                "label": "tube of 30 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹71",
+                    "discounted_price": null,
+                    "discount": null
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "145792",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 71,
+                    "discount_percent": 0,
+                    "position": 20,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "656212",
+                "name": "Moovila-AQ Injection",
+                "type": "drug",
+                "tag": null,
+                "available": true,
+                "url": "/drugs/moovila-aq-injection-656212",
+                "ratings": null,
+                "label": "ampoule of 1 ml injection",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹15",
+                    "discounted_price": "₹14.5",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "656212",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>Wed, 20 Nov</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by Wed, 20 Nov",
+                        "eta": 123059
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 15,
+                    "discount_percent": 3,
+                    "position": 21,
+                    "eta": 123059,
+                    "eta_text": "Delivery by Wed, 20 Nov",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732050966,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "656214",
+                "name": "Moovila-P Tablet",
+                "type": "drug",
+                "tag": null,
+                "available": false,
+                "url": "/drugs/moovila-p-tablet-656214",
+                "ratings": null,
+                "label": "strip of 10 tablets",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹65",
+                    "discounted_price": "₹63",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "656214",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 10,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 65,
+                    "discount_percent": 3,
+                    "position": 22,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "656217",
+                "name": "Moovila-SP Tablet",
+                "type": "drug",
+                "tag": null,
+                "available": false,
+                "url": "/drugs/moovila-sp-tablet-656217",
+                "ratings": null,
+                "label": "strip of 10 tablets",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹85",
+                    "discounted_price": "₹82.4",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "656217",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 10,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 85,
+                    "discount_percent": 3,
+                    "position": 23,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "687671",
+                "name": "Moovcef O 200mg/200mg Tablet",
+                "type": "drug",
+                "tag": null,
+                "available": true,
+                "url": "/drugs/moovcef-o-200mg-200mg-tablet-687671",
+                "ratings": null,
+                "label": "strip of 10 tablets",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹121.8",
+                    "discounted_price": "₹118",
+                    "discount": "3% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Add to cart",
+                    "action": "ADD_TO_CART",
+                    "details": {
+                        "sku_id": "687671",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 10,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": "Delivery by <b><span style=color:#3B3B3B>Wed, 20 Nov</span></b>",
+                "ga_data": {
+                    "info": {
+                        "text": "Delivery by Wed, 20 Nov",
+                        "eta": 124635
+                    }
+                },
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": true,
+                "mix_panel_data": {
+                    "mrp": 121.8,
+                    "discount_percent": 3,
+                    "position": 24,
+                    "eta": 124635,
+                    "eta_text": "Delivery by Wed, 20 Nov",
+                    "sku_availability_status": "available",
+                    "epoch_eta": 1732052542,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "853063",
+                "name": "Moovecart Pack",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moovecart-pack-otc853063",
+                "ratings": null,
+                "label": "box of 2 bottles",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1899f5e0-90bd-4eb4-850b-e6f7ece9b485.jpeg",
+                "prices": {
+                    "mrp": "₹1789",
+                    "discounted_price": "₹1751",
+                    "discount": "2% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "853063",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 2,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1899f5e0-90bd-4eb4-850b-e6f7ece9b485.jpeg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 1789,
+                    "discount_percent": 2,
+                    "position": 25,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "445256",
+                "name": "Moovini Plus Gel",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/moovini-plus-gel-otc445256",
+                "ratings": null,
+                "label": "tube of 30 gm gel",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+                "prices": {
+                    "mrp": "₹78",
+                    "discounted_price": null,
+                    "discount": null
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "445256",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 78,
+                    "discount_percent": 0,
+                    "position": 26,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "740679",
+                "name": "Kitett Kolor Moov",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/kitett-kolor-moov-otc740679",
+                "ratings": null,
+                "label": "box of 1 unit",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mz1ywhvqrfejou3riowz.jpg",
+                "prices": {
+                    "mrp": "₹4200",
+                    "discounted_price": "₹3591",
+                    "discount": "14% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "740679",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mz1ywhvqrfejou3riowz.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/scx2fjk2qq4cs5qo3yvf.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vxu6gvseskpkksefqslq.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 4200,
+                    "discount_percent": 14,
+                    "position": 27,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "702451",
+                "name": "Combo Pack of Moov Pain Relief Spray 50gm & Flamingo Orthopaedic Heating Belt Regular",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/combo-pack-of-moov-pain-relief-spray-50gm-flamingo-orthopaedic-heating-belt-regular-otc702451",
+                "ratings": {
+                    "total_ratings": 1389,
+                    "average_rating": 4.2
+                },
+                "label": "combo pack of 2 packs",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xzer32jfr8qcsychrwew.jpg",
+                "prices": {
+                    "mrp": "₹1469",
+                    "discounted_price": "₹1307",
+                    "discount": "11% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "702451",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 2,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xzer32jfr8qcsychrwew.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jejjxyjqlwr3r2t922dn.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pkijwrosckgclybawlyk.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hoauoxaqd5n8rgdxeg83.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/apjvsvvkk5wto1pwombh.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/aevrkbxxgjkys7zuu8nv.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/whzioiyjuk3ar4yb8pdp.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vyt6vetnf4pcqidwrvcz.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/h0nhlzpcslbookp1sczc.png",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wf7vpxbni6uu8xjns2nn.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fmqq8lkrshkgzbn7egmn.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 1469,
+                    "discount_percent": 11,
+                    "position": 28,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "917349",
+                "name": "Combo Pack of Moov Pain Relief Cream & Spray (50gm Each)",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/combo-pack-of-moov-pain-relief-cream-spray-50gm-each-otc917349",
+                "ratings": {
+                    "total_ratings": 4118,
+                    "average_rating": 4.5
+                },
+                "label": "combo pack of 2 units",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/182ddcc9-7676-41c0-a512-46be0a743605.jpeg",
+                "prices": {
+                    "mrp": "₹444",
+                    "discounted_price": "₹386",
+                    "discount": "13% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "917349",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 2,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/182ddcc9-7676-41c0-a512-46be0a743605.jpeg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/97bd27203b8d46999555c0c253332de6.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3606b6db604b4b568361b2a4d42cc551.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e0aaa8010062419787982e7806912fc9.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b9ee1ed887934218950e4d890a6cf746.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/75db5ca9210546c197ba211da6e0cd7c.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/24944f0e6e5f4ac7b6b0b5a068823972.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7c614b05374e46a1b236a2d5176b96b1.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f1bad24480e740449f411475a51ce790.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5b9c67ae55a742f38b750a7966cbc7fd.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/067d03adcf50438ab26fd3c5ffafeae4.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 444,
+                    "discount_percent": 13,
+                    "position": 29,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "702448",
+                "name": "Combo Pack of Moov Pain Relief Spray 50gm & Healthtokri Electric Rechargeable Heating Gel Warm Bag",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/combo-pack-of-moov-pain-relief-spray-50gm-healthtokri-electric-rechargeable-heating-gel-warm-bag-otc702448",
+                "ratings": {
+                    "total_ratings": 1117,
+                    "average_rating": 4.2
+                },
+                "label": "combo pack of 2 packs",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rncomc7jxfgkgda0k0qd.jpg",
+                "prices": {
+                    "mrp": "₹794",
+                    "discounted_price": "₹444",
+                    "discount": "44% off"
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "702448",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 30,
+                    "selling_quantity": 2,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rncomc7jxfgkgda0k0qd.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jejjxyjqlwr3r2t922dn.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pkijwrosckgclybawlyk.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hoauoxaqd5n8rgdxeg83.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/apjvsvvkk5wto1pwombh.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/aevrkbxxgjkys7zuu8nv.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/whzioiyjuk3ar4yb8pdp.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vyt6vetnf4pcqidwrvcz.jpg",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/h0nhlzpcslbookp1sczc.png",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/frommbcpmcrpf2sldclc.png",
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gh6luyqeq57q0dqwdl9r.jpg"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 794,
+                    "discount_percent": 44,
+                    "position": 30,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            },
+            {
+                "id": "414374",
+                "name": "MD Homoeo Moov Well One Mixture (For Pets)",
+                "type": "otc",
+                "tag": null,
+                "available": false,
+                "url": "/otc/md-homoeo-moov-well-one-mixture-for-pets-otc414374",
+                "ratings": null,
+                "label": "bottle of 30 ml liquid",
+                "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/o1f4k1iqfaaiqqrzrysb.png",
+                "prices": {
+                    "mrp": "₹100",
+                    "discounted_price": null,
+                    "discount": null
+                },
+                "sale": null,
+                "cta": {
+                    "text": "Not available",
+                    "action": "DISABLED",
+                    "details": {
+                        "sku_id": "414374",
+                        "quantity": 1
+                    }
+                },
+                "quantity_info": {
+                    "min": 1,
+                    "max": 4,
+                    "selling_quantity": 1,
+                    "display_text": null,
+                    "know_more": null
+                },
+                "ad": null,
+                "secondary_cta": null,
+                "not_available_tag": null,
+                "eta": null,
+                "ga_data": null,
+                "eta_info": null,
+                "combo_upsell": null,
+                "combo_experiment_eligible": false,
+                "cropped_image_urls": [
+                    "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/o1f4k1iqfaaiqqrzrysb.png"
+                ],
+                "rx_required": false,
+                "mix_panel_data": {
+                    "mrp": 100,
+                    "discount_percent": 0,
+                    "position": 31,
+                    "eta": null,
+                    "eta_text": null,
+                    "sku_availability_status": "unavailable",
+                    "epoch_eta": null,
+                    "pincode": 411022,
+                    "sku_sponsored": false,
+                    "uclid": null
+                },
+                "is_infant": false
+            }
+        ],
+        "sort": {
+            "name": "Sort by",
+            "key": "sort",
+            "enabled": true,
+            "values": [
+                {
+                    "key": "relevance",
+                    "order": 1,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1592917680/marketing/nfup82vhozysn9cxjbyr.png",
+                    "selected": true,
+                    "name": "Relevance",
+                    "default": true
+                },
+                {
+                    "key": "popularity",
+                    "order": 2,
+                    "selected": false,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1592996971/marketing/ogrjzwdnvv3ld6d47vyx.png",
+                    "name": "Popularity",
+                    "default": false
+                },
+                {
+                    "key": "rating",
+                    "order": 3,
+                    "selected": false,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1592917456/marketing/rjxetsyg3xlvc60tfzpy.png",
+                    "name": "Average customer rating",
+                    "default": false
+                },
+                {
+                    "key": "price_low",
+                    "order": 4,
+                    "selected": false,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1523271421/marketing/vysgvbcviqogw6ygor46.png",
+                    "name": "Price: low to high",
+                    "default": false
+                },
+                {
+                    "key": "price_high",
+                    "order": 5,
+                    "selected": false,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1523271447/marketing/jh6qn61jhqkx46ghz6tg.png",
+                    "name": "Price: high to low",
+                    "default": false
+                },
+                {
+                    "key": "discount",
+                    "order": 6,
+                    "selected": false,
+                    "icon": "https://res.cloudinary.com/du8msdgbj/image/upload/w_72,h_72,q_auto/v1523271468/marketing/hhk8dzyx2skq36lpf0id.png",
+                    "name": "Discount",
+                    "default": false
+                }
+            ]
+        },
+        "filter": {
+            "name": "Filters",
+            "values": [
+                {
+                    "name": "Brands",
+                    "is_multi_choice": true,
+                    "count": 0,
+                    "values": [
+                        {
+                            "key": "Moov",
+                            "name": "Moov",
+                            "selected": false,
+                            "count": 21
+                        },
+                        {
+                            "key": "Dr. Patel's",
+                            "name": "Dr. Patel's",
+                            "selected": false,
+                            "count": 3
+                        },
+                        {
+                            "key": "Moovini",
+                            "name": "Moovini",
+                            "selected": false,
+                            "count": 2
+                        },
+                        {
+                            "key": "Flamingo",
+                            "name": "Flamingo",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Healthtokri",
+                            "name": "Healthtokri",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Kitett",
+                            "name": "Kitett",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "MD Homoeo",
+                            "name": "MD Homoeo",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovcef O",
+                            "name": "Moovcef O",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovecart",
+                            "name": "Moovecart",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovila",
+                            "name": "Moovila",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovila MR",
+                            "name": "Moovila MR",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovila-P",
+                            "name": "Moovila-P",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovila-Plus",
+                            "name": "Moovila-Plus",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Moovila-SP",
+                            "name": "Moovila-SP",
+                            "selected": false,
+                            "count": 1
+                        }
+                    ],
+                    "has_search": true,
+                    "key": "brand",
+                    "label": "Brands"
+                },
+                {
+                    "name": "Product form",
+                    "is_multi_choice": true,
+                    "count": 0,
+                    "values": [
+                        {
+                            "key": "Gel",
+                            "name": "Gel",
+                            "selected": false,
+                            "count": 7
+                        },
+                        {
+                            "key": "Spray",
+                            "name": "Spray",
+                            "selected": false,
+                            "count": 7
+                        },
+                        {
+                            "key": "Tablet",
+                            "name": "Tablet",
+                            "selected": false,
+                            "count": 6
+                        },
+                        {
+                            "key": "Cream",
+                            "name": "Cream",
+                            "selected": false,
+                            "count": 5
+                        },
+                        {
+                            "key": "Ointment",
+                            "name": "Ointment",
+                            "selected": false,
+                            "count": 2
+                        },
+                        {
+                            "key": "Pack",
+                            "name": "Pack",
+                            "selected": false,
+                            "count": 2
+                        },
+                        {
+                            "key": "Unit",
+                            "name": "Unit",
+                            "selected": false,
+                            "count": 2
+                        },
+                        {
+                            "key": "Bottle",
+                            "name": "Bottle",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Injection",
+                            "name": "Injection",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Liquid",
+                            "name": "Liquid",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Oral Suspension",
+                            "name": "Oral Suspension",
+                            "selected": false,
+                            "count": 1
+                        }
+                    ],
+                    "has_search": false,
+                    "key": "product_form",
+                    "label": "Select Product Forms"
+                },
+                {
+                    "name": "Prescription required",
+                    "is_multi_choice": true,
+                    "count": 0,
+                    "values": [
+                        {
+                            "key": "false",
+                            "name": "Not Required",
+                            "selected": false,
+                            "count": 29
+                        },
+                        {
+                            "key": "true",
+                            "name": "Required",
+                            "selected": false,
+                            "count": 6
+                        }
+                    ],
+                    "has_search": false,
+                    "key": "rx_required",
+                    "label": "Select Prescription Required"
+                },
+                {
+                    "name": "Uses",
+                    "is_multi_choice": true,
+                    "count": 0,
+                    "values": [
+                        {
+                            "key": "Bone| Joint & Muscle Care",
+                            "name": "Bone, Joint & Muscle Care",
+                            "selected": false,
+                            "count": 20
+                        },
+                        {
+                            "key": "Fever & Pain Management",
+                            "name": "Fever & Pain Management",
+                            "selected": false,
+                            "count": 9
+                        },
+                        {
+                            "key": "Skin Care",
+                            "name": "Skin Care",
+                            "selected": false,
+                            "count": 2
+                        },
+                        {
+                            "key": "Mother Care",
+                            "name": "Mother Care",
+                            "selected": false,
+                            "count": 1
+                        },
+                        {
+                            "key": "Pet Care",
+                            "name": "Pet Care",
+                            "selected": false,
+                            "count": 1
+                        }
+                    ],
+                    "has_search": false,
+                    "key": "uses",
+                    "label": "Select Uses"
+                },
+                {
+                    "name": "Age",
+                    "is_multi_choice": true,
+                    "count": 0,
+                    "values": [
+                        {
+                            "key": "All",
+                            "name": "All",
+                            "selected": false,
+                            "count": 28
+                        }
+                    ],
+                    "has_search": false,
+                    "key": "age",
+                    "label": "Select Ages"
+                }
+            ],
+            "selected": 0,
+            "enabled": true
+        },
+        "user_funnel": {
+            "contains_tag": "298649,830299,377375,964102,964107,964108,964101,299355,297781,993160,301248,297146,323331,899917,911072,1003012,1009388,806396,656213,656216,145792,656212,656214,656217,687671,853063,445256,740679,702451,917349,702448,414374",
+            "type": "with_full_suggestions",
+            "google_suggestion_present": null,
+            "pla_present": null,
+            "secondary_applicable": false,
+            "offset_limit": 0,
+            "experiments": [
+                {
+                    "name": "decision_making",
+                    "set_id": "test2",
+                    "enabled": false,
+                    "description": "User funnel information for decision making experiment",
+                    "data": null
+                },
+                {
+                    "name": "category_discovery_adjacent_widget_cohort",
+                    "set_id": null,
+                    "enabled": false,
+                    "description": "User funnel information for category discovery experiment",
+                    "data": null
+                }
+            ]
+        },
+        "search_suggestions": null,
+        "header": null,
+        "sub_header": null,
+        "backend_experiment": {
+            "pack_of_multiples_experiment": {
+                "cohort": null,
+                "eligibility": false,
+                "shown": false
+            }
+        },
+        "eta_rapid_filter": null,
+        "offer_details": null,
+        "mix_panel_data": {
+            "search_results_type": "otc",
+            "number_of_results": 32,
+            "autocorrected_search": false,
+            "corrected_query": "",
+            "did_you_mean_shown": false,
+            "did_you_mean_suggestions_count": 0,
+            "order_via_rx_or_call_shown": false,
+            "oos_results_count": 21,
+            "adjacent_widget_cohort": null,
+            "parent_category_of_1st_widget": 159,
+            "parent_category_of_2nd_widget": 159,
+            "search_suggestion_skus": [
+                298649,
+                830299,
+                377375,
+                964102,
+                964107,
+                964108,
+                964101,
+                299355,
+                297781,
+                993160,
+                301248,
+                297146,
+                323331,
+                899917,
+                911072,
+                1003012,
+                1009388,
+                806396,
+                656213,
+                656216,
+                145792,
+                656212,
+                656214,
+                656217,
+                687671,
+                853063,
+                445256,
+                740679,
+                702451,
+                917349,
+                702448,
+                414374
+            ],
+            "search_oos_indexes": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                19,
+                20,
+                22,
+                23,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+            ],
+            "search_monet_indexes": [],
+            "search_oos_weights_cohort": null,
+            "secondary_search_triggered": null,
+            "secondary_search_type": null,
+            "category_search_triggered": false,
+            "description_tags_search_triggered": true
+        },
+        "is_otc_page": true
+    },
+    "is_success": true,
+    "partial_complete": false,
+    "status_code": 200
+}

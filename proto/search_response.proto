@@ -1,0 +1,205 @@
+syntax = "proto3";
+
+import "google/protobuf/any.proto";
+
+message SearchResponse {
+
+    message Tag {
+        string text = 1;
+        string bg_color = 2;
+    }
+
+    message Ratings {
+        uint32 total_ratings = 1;
+        double average_rating = 2;
+    }
+
+    message Prices {
+        string mrp = 1;
+        string discounted_price = 2;
+        string discount = 3;
+    }
+
+    message Details {
+        string sku_id = 1;
+        uint32 quantity = 2;
+    }
+
+    message Cta {
+        string text = 1;
+        string action = 2;
+        Details details = 3;
+    }
+
+    message Quantity_info {
+        uint32 min = 1;
+        uint32 max = 2;
+        uint32 selling_quantity = 3;
+        google.protobuf.Any display_text = 4;
+        google.protobuf.Any know_more = 5;
+    }
+
+    message Info {
+        string text = 1;
+        uint32 eta = 2;
+    }
+
+    message Ga_data {
+        Info info = 1;
+    }
+
+    message Mix_panel_data {
+        double mrp = 1;
+        double discount_percent = 2;
+        uint32 position = 3;
+        uint32 eta = 4;
+        string eta_text = 5;
+        string sku_availability_status = 6;
+        uint32 epoch_eta = 7;
+        uint32 pincode = 8;
+        bool sku_sponsored = 9;
+        google.protobuf.Any uclid = 10;
+    }
+
+    message Search_results {
+        string id = 1;
+        string name = 2;
+        string type = 3;
+        Tag tag = 4;
+        bool available = 5;
+        string url = 6;
+        Ratings ratings = 7;
+        string label = 8;
+        string image = 9;
+        Prices prices = 10;
+        google.protobuf.Any sale = 11;
+        Cta cta = 12;
+        Quantity_info quantity_info = 13;
+        google.protobuf.Any ad = 14;
+        google.protobuf.Any secondary_cta = 15;
+        google.protobuf.Any not_available_tag = 16;
+        string eta = 17;
+        Ga_data ga_data = 18;
+        google.protobuf.Any eta_info = 19;
+        google.protobuf.Any combo_upsell = 20;
+        bool combo_experiment_eligible = 21;
+        repeated string cropped_image_urls = 22;
+        bool rx_required = 23;
+        Mix_panel_data mix_panel_data = 24;
+        bool is_infant = 25;
+    }
+
+    message Values {
+        string key = 1;
+        uint32 order = 2;
+        string icon = 3;
+        bool selected = 4;
+        string name = 5;
+        bool default = 6;
+    }
+
+    message Sort {
+        string name = 1;
+        string key = 2;
+        bool enabled = 3;
+        repeated Values values = 4;
+    }
+
+    message Values2 {
+        string key = 1;
+        string name = 2;
+        bool selected = 3;
+        uint32 count = 4;
+    }
+
+    message Values1 {
+        string name = 1;
+        bool is_multi_choice = 2;
+        uint32 count = 3;
+        repeated Values2 values = 4;
+        bool has_search = 5;
+        string key = 6;
+        string label = 7;
+    }
+
+    message Filter {
+        string name = 1;
+        repeated Values1 values = 2;
+        uint32 selected = 3;
+        bool enabled = 4;
+    }
+
+    message Experiments {
+        string name = 1;
+        string set_id = 2;
+        bool enabled = 3;
+        string description = 4;
+        google.protobuf.Any data = 5;
+    }
+
+    message User_funnel {
+        string contains_tag = 1;
+        string type = 2;
+        google.protobuf.Any google_suggestion_present = 3;
+        google.protobuf.Any pla_present = 4;
+        bool secondary_applicable = 5;
+        uint32 offset_limit = 6;
+        repeated Experiments experiments = 7;
+    }
+
+    message Pack_of_multiples_experiment {
+        google.protobuf.Any cohort = 1;
+        bool eligibility = 2;
+        bool shown = 3;
+    }
+
+    message Backend_experiment {
+        Pack_of_multiples_experiment pack_of_multiples_experiment = 1;
+    }
+
+    message Mix_panel_data1 {
+        string search_results_type = 1;
+        uint32 number_of_results = 2;
+        bool autocorrected_search = 3;
+        string corrected_query = 4;
+        bool did_you_mean_shown = 5;
+        uint32 did_you_mean_suggestions_count = 6;
+        bool order_via_rx_or_call_shown = 7;
+        uint32 oos_results_count = 8;
+        google.protobuf.Any adjacent_widget_cohort = 9;
+        uint32 parent_category_of_1st_widget = 10;
+        uint32 parent_category_of_2nd_widget = 11;
+        repeated uint32 search_suggestion_skus = 12;
+        repeated uint32 search_oos_indexes = 13;
+        repeated google.protobuf.Any search_monet_indexes = 14;
+        google.protobuf.Any search_oos_weights_cohort = 15;
+        google.protobuf.Any secondary_search_triggered = 16;
+        google.protobuf.Any secondary_search_type = 17;
+        bool category_search_triggered = 18;
+        bool description_tags_search_triggered = 19;
+    }
+
+    message Data {
+        string term = 1;
+        string scroll_id = 2;
+        google.protobuf.Any previous_scroll_id = 3;
+        bool result_found = 4;
+        repeated Search_results search_results = 5;
+        Sort sort = 6;
+        Filter filter = 7;
+        User_funnel user_funnel = 8;
+        google.protobuf.Any search_suggestions = 9;
+        google.protobuf.Any header = 10;
+        google.protobuf.Any sub_header = 11;
+        Backend_experiment backend_experiment = 12;
+        google.protobuf.Any eta_rapid_filter = 13;
+        google.protobuf.Any offer_details = 14;
+        Mix_panel_data1 mix_panel_data = 15;
+        bool is_otc_page = 16;
+    }
+
+    Data data = 1;
+    bool is_success = 2;
+    bool partial_complete = 3;
+    uint32 status_code = 4;
+}
